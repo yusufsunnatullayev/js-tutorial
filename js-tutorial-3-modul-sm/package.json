@@ -1,0 +1,22 @@
+{
+  "name": "js-tutorial-3-modul-sm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yusuf Sunnatullayev",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bootstrap": "^5.3.2",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "jquery": "^3.7.1",
+    "json-server": "^1.0.0-alpha.19"
+  }
+}

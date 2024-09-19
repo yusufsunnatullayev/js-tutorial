@@ -1,0 +1,99 @@
+/* 32 and 33 lessons 🚩 */
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+.wrapper {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  border: 3px solid red;
+}
+.btn-block {
+  padding: 10px;
+  background-color: grey;
+}
+button {
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 100px;
+  height: 40px;
+  background-color: yellow;
+  border: none;
+  transition: 0.3s all;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+} */
+
+/* 35-lesson 🚩 */
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.wrapper {
+  position: relative;
+  width: 900px;
+  height: 100px;
+  margin: 0 auto;
+  background-color: rgb(117, 117, 236);
+}
+.car {
+  height: 100px;
+  width: 900px;
+  position: absolute;
+  left: 0;
+}
+.car img {
+  object-fit: cover;
+  width: 200px;
+  height: 150px;
+}
+
+.btn {
+  width: 100px;
+  margin: 0 auto;
+}
+.btn button {
+  width: 100px;
+  height: 50px;
+  background-color: rgb(117, 117, 236);
+  color: white;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin-top: 30px;
+} */
+
+/* 40 - lesson */
+
+.box {
+  box-sizing: border-box;
+  width: 400px;
+  height: 350px;
+  overflow: scroll;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 10px;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+}
